@@ -1,6 +1,4 @@
 - 👋 Hi, I’m @hitchedmoon
-- 👀 I’m interested in learning everything
-- 🌱 I’m currently learning everything
 - ⚡ Fun fact: I dont like C#
 
 <!---
