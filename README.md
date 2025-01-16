@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @hitchedmoon
-- ⚡ Fun fact: I dont like Maui
+- ⚡ Fun fact: I hate Maui
 
 <!---
 hitchedmoon/hitchedmoon is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
